@@ -1,0 +1,152 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  background: #f1f1f1;
+}
+.bg-header-img {
+  background: url("./1.png");
+  height: 118px;
+}
+.body-container {
+  background: url("./1.png") no-repeat;
+  width: 349px;
+  margin: 0 auto;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  background-color: #fff;
+  box-shadow: 0px 0px 14px #9d9d9d;
+}
+.content {
+  width: 87%;
+  margin: 0 auto;
+}
+.name {
+  margin-top: 1.7rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid #ccc;
+}
+
+.name-blk {
+  padding: 0 1.7rem 0 1rem;
+}
+
+.header {
+  background: #112246;
+  border-radius: 7px;
+  box-shadow: 0 8px 12px -6px #757575;
+  color: #fff;
+}
+
+.header-img {
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+  height: 155px;
+}
+.desigination {
+  padding: 0;
+  margin: 0;
+  font-size: 11px;
+  font-weight: lighter;
+  color: #c1c1c1;
+  width: 100%;
+  position: relative;
+  top: -6px;
+}
+
+.cl-logo {
+  width: 50px;
+}
+
+.buttons {
+  padding-top: 1rem;
+}
+
+.btnn {
+  background: transparent;
+  border-radius: 5px;
+  padding: 7px 12px;
+  border: 1px solid #112246;
+  color: #112246;
+  font-weight: 400;
+  width: 100%;
+}
+
+.bg-btnn {
+  background: #112246;
+  color: #fff;
+}
+
+.brd {
+  margin-top: 0.5rem;
+}
+
+.bord-img {
+  width: 100%;
+}
+
+.contact-info {
+  margin-top: 0.5rem;
+}
+
+.headings {
+  font-weight: bold;
+  color: #112246;
+}
+.info {
+  margin-top: 1rem;
+}
+i.icons {
+  padding: 0.8rem 1rem;
+  background: #ddd;
+  border-radius: 10px;
+  font-size: 18px;
+  font-weight: 600;
+  color: #112246;
+}
+label.text {
+  margin-left: 1rem;
+  font-weight: 600;
+  color: #777;
+  position: relative;
+  top: 0.7rem;
+  line-height: 0.9rem;
+}
+label.text a {
+  color: #777;
+}
+label.top-imp-z {
+  top: 0;
+}
+i.ilinks {
+  padding: 0.6rem 0.7rem;
+  background: #e9e9e9;
+  border-radius: 10px;
+  font-size: 16px;
+  font-weight: 500;
+  color: #112246;
+}
+label.itext {
+  margin-left: 1rem;
+  font-weight: 500;
+  color: #777;
+  position: relative;
+  top: 0.5rem;
+  line-height: 0.9rem;
+}
+.iarrow {
+  position: relative;
+  top: 0.5rem;
+  font-size: 20px;
+  color: #777;
+}
+.br-btm-1 {
+  border-bottom: 1px solid #e7e7e7;
+  padding-bottom: 1.2rem;
+}
+
+.footer {
+  margin-top: 2rem;
+  text-align: center;
+  color: #777;
+  font-size: 9px;
+}
